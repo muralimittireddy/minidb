@@ -1,6 +1,6 @@
-def main() -> None:
-    print("minidb client (Day 0) - not implemented yet")
+from __future__ import annotations
 
+from .main import main
 
 if __name__ == "__main__":
     main()
